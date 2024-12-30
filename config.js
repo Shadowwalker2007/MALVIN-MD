@@ -6,13 +6,13 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 ///=================When editing, do not accidentally delete anything !!MAIN-CONFIG=================================
-SESSION_ID: process.env.SESSION_ID || "jNUUFKiI#YfsBzKOAdNdt1s0efIXbPs_maWMGvOSDcYfejQOei2k",  // ADD Your Session Id 
+SESSION_ID: process.env.SESSION_ID || "DUkS1QBS#Bh2PD3XkA66eg1d_c9a8GxlFFkP_Fc2I9viEXIELc1A",  // ADD Your Session Id 
 MODE: process.env.MODE || "public",  // Add Your Bot Mode (groups/privet/public)
 PREFIX: process.env.PREFIX || ".",   // Add Your Custom Prefix 
 OWNER_REACT: process.env.OWNER_REACT || "true", //add true or false
-BOT_NAME: process.env.BOT_NAME || "𝙼𝙰𝙻𝚅𝙸𝙽 𝙼𝙳 v2",
+BOT_NAME: process.env.BOT_NAME || "SHADOW WALKER V2 BOT",
 ///=================When editing, do not accidentally delete anything !!CUSTOM-SETTING-CONFIG=====================
-AUTO_VOICE: process.env.AUTO_VOICE || "true", //add true or false
+AUTO_VOICE: process.env.AUTO_VOICE || "false", //add true or false
 AUTO_STICKER: process.env.AUTO_STICKER || "true", //add true or false
 AUTO_REPLY: process.env.AUTO_REPLY || "true", //add true or false
 ANTI_LINK: process.env.ANTI_LINK || "true", //add true or false
